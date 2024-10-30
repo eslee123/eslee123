@@ -3,6 +3,7 @@
 I'm a CS undergrad with a passion for coding and learning more to better contribute to my community. I enjoy working with C++/C, Python, and SQL. 
 
 🌱 I'm currently learning F#
+
 <!--
 **eslee123/eslee123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
