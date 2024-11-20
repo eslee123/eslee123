@@ -1,6 +1,8 @@
 # Hello, World!
 
-I'm a CS undergrad with a passion for coding and learning more to better contribute to my community. I enjoy working with C++/C, Python, and SQL. 
+I'm a CS undergrad with a passion for coding and building digital solutions to real-world problems or inconveniences. I strongly value collaboration and look forward to contributing to the rapidly growing tech sector. 
+
+I enjoy working with C/C++, Python, and SQL. 
 
 🌱 I'm currently learning F#
 
